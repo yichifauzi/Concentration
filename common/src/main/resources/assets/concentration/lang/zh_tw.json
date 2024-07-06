@@ -7,7 +7,7 @@
   "concentration.config.customization.height": "高度",
   "concentration.option.apply": "套用",
   "concentration.option.fullscreen_mode": "全螢幕模式",
-  "concentration.option.fullscreen_mode.tooltip": "全螢幕模式決定了全螢幕功能是使用無邊框全螢幕還是原生全螢幕。",
+  "concentration.option.fullscreen_mode.tooltip": "全螢幕模式決定了全螢幕功能要使用無邊框全螢幕還是原生全螢幕。",
   "concentration.option.fullscreen_mode.borderless": "無邊框",
   "concentration.option.fullscreen_mode.native": "原生"
 }
